@@ -23,7 +23,8 @@ complaint-management-system/
 ├── models/  
 │   └── Complaint.js  
 ├── public/  
-│   └── index.html,view.html
+│     └── index.html
+│     └── view.html
 ├── server.js  
 ├── package.json  
 └── README.md
