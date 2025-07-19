@@ -25,9 +25,10 @@ complaint-management-system/
 ├── public/  
 │     └── index.html
 │     └── view.html
-├── server.js  
+|
 ├── package.json  
 └── README.md
+├── server.js 
 
 
 ---
